@@ -4,7 +4,7 @@ A neural network that can recognize digital handwritten digits. <br>![alt text](
 
 # Dataset used
 
-I used a MNIST dataset to train my neural network. <br/>MNIST Database http://yann.lecun.com/exdb/mnist
+I used MNIST dataset to train my neural network. <br/>MNIST Database http://yann.lecun.com/exdb/mnist
 
 # Example: line representation
 
